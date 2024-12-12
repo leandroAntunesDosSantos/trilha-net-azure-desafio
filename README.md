@@ -66,7 +66,3 @@ Este é um diagrama do ambiente que deverá ser montado no Microsoft Azure, util
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima, incluindo a sua publicação na nuvem.
-
-## Deploy da Aplicação na Microsoft Azure Para Fins De Estudo
-
-https://rhconfigapp-esa5cbhwhfh5f4gx.canadacentral-01.azurewebsites.net/swagger/index.html
